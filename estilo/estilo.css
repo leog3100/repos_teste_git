@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ffffff;
+    font-family: "Open Sans",sans-serif;
+}
+
+
+.imgtitle{
+    max-width: 250px;
+    margin-top: 30px;
+}
+
+.content-title{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.content-li{
+    padding: 10px;
+    background: #598fc9;
+    margin: 5px;
+    color: white;
+}
+
+.cardi{
+    background: rgb(224, 104, 5);
+    background: linear-gradient(90deg, rgb(207, 106, 38) 0%, rgb(255, 252, 104) 100%);
+    
+    border: 1px solid ;
+    padding: 0.7rem;
+    color: white;
+    border-radius: 15px;
+    margin: 10px;
+    font-size: 15px;    
+}
+
+/* Efeito de Passar Sobre
+.cardi:hover{
+    background-color: white;
+    color: hsl(217, 71%, 53%);
+    border: 1px solid ;
+    border-color: hsl(217, 71%, 53%);
+    padding: 0.7rem;
+    border-radius: 15px;
+    margin: 10px;
+    font-size: 15px;
+}*/
+
+.container{
+    margin: 10px;
+}
+
+.columnC{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.cardi span{
+    padding-right: 10px;
+}
+
+.is-divider-vertical{
+    padding: 1rem!important;
+}
+
+.navbar-item img{
+    max-height: 2.75rem!important;
+}
+
+.nopadding{
+    padding: 0px!important;
+}
+
+.has-padding{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    
+}
+
+.has-bg-imgm{
+    background: url('../img/map.JPG')center center;
+    background-size: cover;
+}
+
+.is-logo{
+    color: #f78361 !important;
+}
+.is-light{
+    color: white!important;
+}
+
+.has-color{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 85%, rgba(241,241,241,1) 100%);
+}
+
+figure {
+    width: 95px;
+    height: 95px;
+    overflow: hidden;
+    margin: 0 auto!important;
+    border-radius: 100%;
+}
+
+.card{
+    max-height: 334px!important;
+    max-width: 334px!important;
+}
+
+.card{
+    border-radius: 10px;
+    -webkit-box-shadow: 6px 8px 11px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 8px 11px -3px rgba(0,0,0,0.75);
+    box-shadow: 0 3px 10px -2px rgba(0,0,0,0.35)!important;
+}
+
+.container h2{
+    line-height:2rem;
+    padding-top: 30px;
+}
+
+.content-image{
+    width: 99%;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+.article-text{
+    padding: 15px 0;
+    text-align: justify;
+}
+.content-ul{
+    margin-left: 30px
+}
+
+.table1{
+    width: 100%;
+
+}
+.table1 > thead {
+    background-color: #17a4a3;
+    font-size: 19px;  
+}
+.table1 > tbody > tr>  td {
+    background-color:#ADD8E6	;
+}
+.table2{
+    width: 100%;
+}
+.table2 > thead{
+    background-color: #f78361;
+    text-align: center;
+    font-size: 19px;
+}
+
+#etapas-de-inscricao{
+    background-color: #4169E1;
+    text-align: center;	
+}
+.col1{
+    background-color: #6495ED;
+    text-align: center;
+}
+#etapas-de-selecao{
+    background-color: #F0E68C;
+    text-align: center;	 
+}
+.col2{
+    background-color: #EEE8AA;
+    text-align: center;	
+}
+#etapa-presencial{
+    background-color: #3CB371;
+    text-align: center;
+}
+.col3{
+    background-color: #90EE90;
+    text-align: center;
+}
+.table3{
+    width: 100%;
+}
+.table3 > tbody > tr{
+    background-color: #ADD8E6
+}
+.table4{
+    width: 100%;
+}
+.table4 > tbody > tr{
+    background-color: #ADD8E6
+}
+.table5{
+    width: 100%;
+}
+.table5 > thead{
+    background-color: #17a4a3;
+    font-size: 19px;
+}
+.table5 > tbody > tr{
+    background-color: #ADD8E6
+}
+.table6{
+    width: 100%;
+}
+.table6 > tbody > tr{
+    background-color: #ADD8E6
+}
+.video{
+    width: 70%;
+    height: 70%;
+    position:absolute;
+    left: 15%;
+
+}
+
+.corpo{
+    margin: 75px 10px 25px 15px;
+
+}
+
+p{
+    font-size: 17px;
+    color: rgb(68, 66, 66);
+    margin-top: 15px;
+}
+
+h1{
+    font-size: 23px;
+    
+}
+
+#title{
+    font-size: 25px;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.cp_doc{
+    margin-top: 10px;
+}
+
+.h3class{
+    font-size: 25px;
+    margin-top: 30px;
+    font-style: oblique;
+}
+
+#title-local{
+    font-size: 25px;
+    margin: 70px 30px 25px 15px;
+    font-style: oblique;
+}
+
+#text-local{
+    margin: 25px 100px 15px 30px;
+    text-align: justify;
+}
+
+.image{
+    align: center;
+}
+
+.img-banner{
+    height: 420px;
+}
+
+.banner{
+    height: 430px;
+}
